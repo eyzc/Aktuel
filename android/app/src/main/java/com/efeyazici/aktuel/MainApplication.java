@@ -1,4 +1,4 @@
-package com.aktuel;
+package com.efeyazici.aktuel;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

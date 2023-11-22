@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "400586033795",
+    "project_id": "aktuel-urunler-7b6d1",
+    "storage_bucket": "aktuel-urunler-7b6d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400586033795:android:e5bb5be580b7a7e69b29b6",
+        "android_client_info": {
+          "package_name": "com.efeyazici.aktuel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBICHDAkCN6ZO4n3B5DdD3LOnVv4mXQXX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
